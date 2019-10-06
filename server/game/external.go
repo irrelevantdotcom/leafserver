@@ -1,7 +1,7 @@
-package login
+package game
 
 import (
-	"server/login/internal"
+	"github.com/irrelevantdotcom/leafserver/server/game/internal"
 )
 
 var (

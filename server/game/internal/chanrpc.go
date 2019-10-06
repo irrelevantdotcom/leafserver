@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/gate"
+	"github.com/irrelevantdotcom/leaf/gate"
 )
 
 func init() {
