@@ -1,7 +1,10 @@
+github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
 github.com/gorilla/websocket v1.4.1 h1:q7AeDBpnBk8AogcD4DSag/Ukw/KV+YhzLj2bP5HvKCM=
 github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
-github.com/irrelevantdotcom/leaf v0.0.0-20181103040206-1364c176dfbd h1:H012nxqqVYsH0+nzZWklINCZs+VgNnyIkHk4Zw92dKE=
-github.com/irrelevantdotcom/leaf v0.0.0-20181103040206-1364c176dfbd/go.mod h1:IbVWZzaRx7iHTy8QcW3nF4NEnD1mD8Zss+Hxa3vgAYo=
-github.com/irrelevantdotcom/leafserver v0.0.0-20170223062139-6d4f51f87b82 h1:eL5A6Z/GxxNGmbCAhAr3Y+h07A3/g9mXVhCXWMPEIqI=
-github.com/name5566/leaf v0.0.0-20181103040206-1364c176dfbd h1:22rhYEzttbrnKjgYh5pifnDluXHHcJ3uSOi2l8Nw+9A=
-github.com/name5566/leaf v0.0.0-20181103040206-1364c176dfbd/go.mod h1:JrOIxq3vDxvtuEI7Kmm2yqkuBfuT9DMLFMnCyYHLaKM=
+github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
+github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
+github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22/go.mod h1:yeKp02qBN3iKW1OzL3MGk2IdtZzaj7SFntXj72NppTA=
+gopkg.in/yaml.v2 v2.2.4/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
